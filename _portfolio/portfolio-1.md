@@ -1,6 +1,6 @@
 ---
 title: "Vorticity and turbulence"
-excerpt: "Nearly-free evolution of vorticity in two dimensions<br/><img src='/images/vorticity/vorticity.png' style='width: 25%;'>"
+excerpt: "Nearly-free evolution of vorticity in two dimensions<br/><img src='/images/vorticity/vorticity.png' style='width: 40%;'>"
 collection: portfolio
 ---
 
@@ -18,8 +18,9 @@ where $U$ and $L$ are characteristic velocity and length scales of the flow, and
 
 $$
 \begin{aligned}
-\mathbf{\nabla}'\cdot\mathbf{u}' &= 0\\
-\text{Re}\left[\frac{\partial \mathbf{u}'}{\partial t'} + (\mathbf{u}'\cdot\mathbf{\nabla}')\mathbf{u}'\right] &= -\mathbf{\nabla}'p' + \nabla^2 \mathbf{u}'
+\mathbf{\nabla}'\cdot\mathbf{u}' &= 0,\\
+\text{Re}\left[\frac{\partial \mathbf{u}'}{\partial t'} + (\mathbf{u}'\cdot\mathbf{\nabla}')\mathbf{u}'\right] &= -\mathbf{\nabla}'p' + \nabla'^2 \mathbf{u}',
 \end{aligned}
 $$
 
+where primes denote dimensionless quantities.
