@@ -11,7 +11,7 @@ Welcome to my website!
 
 I am a Natural Sciences graduate from the University of Cambridge. I am interested in applying fluid dynamics and numerical modelling to predict future climate. In particular, I am interested in understanding the dynamics of global ice sheets and their effect on future sea level rise.
 
-Here you will find a collection of my notes on geophysical fluid dynamics and thermodynamics, along with a collection of numerical simulations illustrating various fluid dynamic instabilities and phenomena relevant to the Earth Sciences.
+On the gallery page you will find a collection of my notes on geophysical fluid dynamics and thermodynamics, along with a collection of numerical simulations illustrating various fluid dynamic instabilities and other phenomena relevant to the Earth Sciences.
 
 <!-- ## Education
 
