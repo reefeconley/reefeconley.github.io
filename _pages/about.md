@@ -33,6 +33,13 @@ Research project: <a href="/pdfs/Part II Report Reefe Conley.pdf">*The aqueous g
 Music: University of Cambridge Concert Band (President and Treasurer), Girton College Orchestra, St John's College Big Band, University of Cambridge Brass Band  
 Rowing: Men's 2nd VIII (Girton College)
 
+## Research experience
+
+**University of Manchester**  
+Research Internship  
+*Jul 2025 – Aug 2025*  
+Researched Saffman-Taylor instabilities in non-Newtonian fluids with Professor A.J. Hutchinson in the Department of Mathematics. Created scripts to analyse lab experiment recordings, thereby improving mathematical model of Saffman-Taylor instabilities in shear-thinning fluids.
+
 ## Fieldwork
 
 **Isle of Arran, Scotland**  
