@@ -29,7 +29,7 @@ $$
 \frac{(\mathbf{u}\cdot\boldsymbol{\nabla})\mathbf{u}}{\nu\nabla^2 \mathbf{u}} \sim \frac{U^2/L}{\nu U/L^2}\sim \frac{UL}{\nu},
 $$
 
-as expected. The chaotic behaviour of turbulent flow arises from the dominance of the nonlinear inertial $(\mathbf{u}\cdot\boldsymbol{\nabla})\mathbf{u}$ term over viscous dissipation.
+as expected. The chaotic behaviour of turbulent flow arises from the dominance of the nonlinear inertial $(\mathbf{u}\cdot\boldsymbol{\nabla})\mathbf{u}$ term over viscous dissipation. From this, we can see why river flows become turbulent as they flow down a knickpoint: both the flow velocity and depth increase while the kinematic viscosity remains constant (it is a material property of water). Both of these effects cause an increase in the Reynolds number, causing a transition to turbulent flow.
 
 We can further manipulate the momentum equation to gain more insight into the development of swirling vortices in turbulent flow. Taking the curl $\left(\boldsymbol{\nabla} \times \right)$ of both sides of the momentum equation gives
 
