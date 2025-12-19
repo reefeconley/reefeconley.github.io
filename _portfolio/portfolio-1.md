@@ -1,7 +1,11 @@
 ---
 title: "Vorticity and turbulence"
-excerpt: "Nearly-free evolution of vorticity in two dimensions<br/><img src='/images/500x300.png'>"
+excerpt: "Nearly-free evolution of vorticity in two dimensions<br/><img src='/images/vorticity/vorticity.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+# Vorticity and turbulence
+
+Some fluids flow in a smooth, predictable fashion while others move in chaotic, swirling patterns of vortices. Such flows are ubiquitious across nature, with ice a good example of the former case of *laminar flow* and air of the latter *turbulent flow*. Watching a calm river, it is possible to see that the same fluid can at one time flow in a laminar fashion and transition to turbulent flow as it flows down a knickpoint, before returning to laminar flow again.
+
+
