@@ -9,24 +9,23 @@ redirect_from:
 
 # About
 
-I read Natural Sciences (B.A. (Hons) and M.Sci.) at the University of Cambridge, graduating with a First Class in 2025. I am interested in applying fluid dynamics and numerical modelling to predict future climate. In particular, I am interested in understanding the dynamics of global ice sheets and their effect on future sea level rise.
+Welcome to my website!
 
-Here you will find a collection of my notes on geophysical fluid dynamics and thermodynamics, along with a collection of numerical simulations illustrating various fluid dynamic instabilities and phenomena observed in the Earth Sciences.
+I am a Natural Sciences graduate from the University of Cambridge. I am interested in applying fluid dynamics and numerical modelling to predict future climate. In particular, I am interested in understanding the dynamics of global ice sheets and their effect on future sea level rise.
 
-# CV
-
-$$
-\frac{\text{D}\mathbf{u}}{\text{D}t} = -\frac{1}{\rho}\mathbf{\nabla}p+\mathbf{g}+\nu\nabla^2\mathbf{u}
-$$
+Here you will find a collection of my notes on geophysical fluid dynamics and thermodynamics, along with a collection of numerical simulations illustrating various fluid dynamic instabilities and phenomena relevant to the Earth Sciences.
 
 ## Education
 
-**University of Cambridge**
+**University of Cambridge**  
+M.Sci. Natural Sciences (Quantitative Climate and Environmental Science)  
+*Oct 2024 – Jul 2025*  
+Grade: First Class  
+Dissertation: <a href="/pdfs/Part_III_Dissertation_rjc213.pdf">*Quantifying melt rates in the grounding zones of Antarctic ice shelves*</a>
 
-I recently completed a visiting research internship in the Department of Mathematics at the University of Manchester, where I undertook research with Dr Ashleigh Hutchinson into the behaviour of Saffman-Taylor instabilities in shear-thinning fluids.
+**University of Cambridge**  
+B.A. (Hons) Natural Sciences (Earth Sciences)  
+*Oct 2021 – Jul 2024*  
+Grade: 2.i  
+Research project: <a href="/pdfs/Part II Report Reefe Conley.pdf">*The aqueous geochemistry of the étang de Thau, southern France*</a>
 
-<!-- A report of some of the research I undertook is available <a href="/pdfs/Saffman_Taylor_report_rjc.pdf">here</a>. -->
-
-During my master's degree, I used geophysical inversion to improve melt rate estimates in the grounding zones of Antarctic ice shelves. My thesis is available <a href="/pdfs/Part_III_Dissertation_rjc213.pdf">here</a>.
-
-During my bachelor's degree, I carried out an independent research project investigating the aqueous geochemistry of the étang de Thau, southern France. My thesis is available <a href="/pdfs/Part II Report Reefe Conley.pdf">here</a>.
