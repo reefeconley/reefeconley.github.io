@@ -15,6 +15,10 @@ Here you will find a collection of my notes on geophysical fluid dynamics and th
 
 # CV
 
+$$
+\frac{\text{D}\mathbf{u}}{\text{D}t} = -\frac{1}{\rho}\mathbf{\nabla}p+\mathbf{g}+\nu\nabla^2\mathbf{u}
+$$
+
 ## Education
 
 I recently completed a visiting research internship in the Department of Mathematics at the University of Manchester, where I undertook research with Dr Ashleigh Hutchinson into the behaviour of Saffman-Taylor instabilities in shear-thinning fluids.
