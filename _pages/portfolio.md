@@ -5,10 +5,9 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-test
-
 {% include base_path %}
 
+test
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
