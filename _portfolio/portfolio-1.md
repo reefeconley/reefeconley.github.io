@@ -16,8 +16,8 @@ where $U$ and $L$ are characteristic velocity and length scales of the flow, and
 
 $$
 \begin{aligned}
-\mathbf{\nabla}'\cdot\mathbf{u}' &= 0,\\
-\text{Re}\left[\frac{\partial \mathbf{u}'}{\partial t'} + (\mathbf{u}'\cdot\mathbf{\nabla}')\mathbf{u}'\right] &= -\mathbf{\nabla}'p' + \nabla'^2 \mathbf{u}',
+\boldsymbol{\nabla}'\cdot\mathbf{u}' &= 0,\\
+\text{Re}\left[\frac{\partial \mathbf{u}'}{\partial t'} + (\mathbf{u}'\cdot\boldsymbol{\nabla}')\mathbf{u}'\right] &= -\boldsymbol{\nabla}'p' + \nabla'^2 \mathbf{u}',
 \end{aligned}
 $$
 
