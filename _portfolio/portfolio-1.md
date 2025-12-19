@@ -21,4 +21,12 @@ $$
 \end{aligned}
 $$
 
-where primes denote dimensionless quantities.
+where primes denote dimensionless quantities. The Reynolds number represents the ratio of inertial to viscous forces. When the Reynolds number is large, theinertial forces dominate over viscous forces and the below becomes turbulent. The chaotic behaviour of turbulent flow arises from the nonlinearity of the inertial $(\mathbf{u}'\cdot\boldsymbol{\nabla}')\mathbf{u}'$ term. In the opposite regime of small Reynolds numbers, viscous forces dominate over inertial ones, producing laminar flow.
+
+We can further manipulate the momentum equation to gain more insight into the development of swirling vortices in turbulent flow. Taking the curl $\left(\boldsymbol{\nabla} \times \right)$ of both sides of the momentum equation gives
+
+$$
+\text{Re}\left[\frac{\partial \mathbf{\omega}}{\partial t} + (\mathbf{u}\cdot\boldsymbol{\nabla})\mathbf{\omega}\right] = \left( \mathbf{\omega}\cdot\boldsymbol{\nabla}\right)\mathbf{u} + \nabla^2 \mathbf{\omega},
+$$
+
+where we have dropped primes for notational simplicity. This is the *vorticity equation*, where $\mathbf{\omega}=\boldsymbol{\nabla} \times \mathbf{u}$. This 
