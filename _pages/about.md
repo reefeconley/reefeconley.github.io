@@ -41,7 +41,7 @@ Activites: Geological mapping
 
 **Provence, France**  
 Duration: 4 weeks  
-Activities: Aqueous geochemistry sampling, titration, mass spectrometry, geochemical mapping, numerical modelling
+Activities: Aqueous sampling, titration, mass spectrometry, geochemical mapping, numerical modelling
 
 **Corinth, Greece**  
 Duration: 1 week  
