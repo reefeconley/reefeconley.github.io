@@ -12,7 +12,7 @@ $$
 \text{Re} = \frac{UL}{\nu},
 $$
 
-where $U$ and $L$ are characteristic velocity and length scales of the flow, and $\nu$ is the kinematic viscosity (diffusivity of momentum) of the fluid. By scaling the Navier-Stokes equations for a fluid of constant density \rho$ using $'U'$, $L$ and a characteristic timescale $T=L/U$ and pressure scale $\mu U/L$, where $\mu$ is the dynamic viscosity of the fluid (satisfying $\mu = \rho \nu$), we obtain
+where $U$ and $L$ are characteristic velocity and length scales of the flow, and $\nu$ is the kinematic viscosity (diffusivity of momentum) of the fluid. By scaling the Navier-Stokes equations for a fluid of constant density $\rho$ using $U$, $L$ and a characteristic timescale $T=L/U$ and pressure scale $\mu U/L$, where $\mu$ is the dynamic viscosity of the fluid (satisfying $\mu = \rho \nu$), we obtain
 
 $$
 \begin{aligned}
