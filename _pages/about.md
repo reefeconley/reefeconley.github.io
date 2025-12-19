@@ -29,3 +29,20 @@ B.A. (Hons) Natural Sciences (Earth Sciences)
 Grade: 2.i  
 Research project: <a href="/pdfs/Part II Report Reefe Conley.pdf">*The aqueous geochemistry of the étang de Thau, southern France*</a>
 
+**Extra-curricular activities**  
+Music: University of Cambridge Concert Band (President and Treasurer), Girton College Orchestra, St John's College Big Band, University of Cambridge Brass Band  
+Rowing: Men's 2nd VIII (Girton College)
+
+## Fieldwork
+
+**Isle of Arran, Scotland**  
+Duration: 1 week  
+Activites: Geological mapping
+
+**Provence, France**  
+Duration: 4 weeks  
+Activities: Aqueous geochemistry sampling, titration, mass spectrometry, geochemical mapping, numerical modelling
+
+**Corinth, Greece**  
+Duration: 1 week  
+Activities: Geological mapping
