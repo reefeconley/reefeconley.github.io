@@ -11,6 +11,8 @@ redirect_from:
 
 ## Education
 
+---
+
 **University of Cambridge**  
 M.Sci. Natural Sciences (Quantitative Climate and Environmental Science)  
 *Oct 2024 – Jul 2025*  
