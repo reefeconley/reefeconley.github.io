@@ -4,7 +4,7 @@ excerpt: "Nearly-free evolution of vorticity in two dimensions<br/><img src='/im
 collection: portfolio
 ---
 
-Some fluids flow in a smooth, predictable fashion while others move in chaotic, swirling patterns of vortices. These different flow regimes are ubiquitious across nature: glacier flow is a good example of the former case of *laminar flow* while the flow of air in a room is a case of the latter *turbulent flow*. Watching a calm river, it is possible to see that the same fluid can at one time flow in a laminar fashion and transition to turbulent flow as it flows down a knickpoint, before returning to laminar flow again.
+Some fluids flow in a smooth, predictable fashion while others move in chaotic, swirling patterns of vortices. These different flow regimes are ubiquitious across nature: glacier flow is a good example of the former case of *laminar flow* while the flow of air in a room is a case of the latter *turbulent flow*. Watching a calm river, we see that the same fluid can transition from laminar to turbulent flow as it flows down a knickpoint before returning to laminar flow once more.
 
 The key governing parameter of the flow pattern is the *Reynolds number*,
 
