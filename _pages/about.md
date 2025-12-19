@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About
-
 Welcome to my website!
 
 I am a Natural Sciences graduate from the University of Cambridge. I am interested in applying fluid dynamics and numerical modelling to predict future climate. In particular, I am interested in understanding the dynamics of global ice sheets and their effect on future sea level rise.
