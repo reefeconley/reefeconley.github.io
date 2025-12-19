@@ -1,6 +1,6 @@
 ---
 title: "Vorticity and turbulence"
-excerpt: "Nearly-free evolution of vorticity in two dimensions<br/><img src='/images/vorticity/vorticity.png' style='width: 60%;'>"
+excerpt: "Nearly-free evolution of vorticity in two dimensions<br/><img src='/images/vorticity/vorticity.png' style='width: 25%;'>"
 collection: portfolio
 ---
 
