@@ -37,7 +37,7 @@ Rowing: Men's 2nd VIII (Girton College)
 Awarded by Girton College, Cambridge for outstanding academic achievement in 2024–25.
 
 **Girton College Travel Award**  
-Awarded by Girton College, Cambrdige for high-quality and constructive travel for scientific research. 
+Awarded by Girton College, Cambridge for high-quality and constructive travel for scientific research. 
 
 **Worts Travelling Scholars, Sir Bartle Frere’s Memorial, and Mary Euphrasia Mosley
 Awards**  
