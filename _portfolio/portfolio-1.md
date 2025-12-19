@@ -34,13 +34,13 @@ as expected. The chaotic behaviour of turbulent flow arises from the dominance o
 We can further manipulate the momentum equation to gain more insight into the development of swirling vortices in turbulent flow. Taking the curl $\left(\boldsymbol{\nabla} \times \right)$ of both sides of the momentum equation gives
 
 $$
-\frac{\text{D} \mathbf{\omega}}{\text{D} t} = \left( \mathbf{\omega}\cdot\boldsymbol{\nabla}\right)\mathbf{u} + \nu \nabla^2 \mathbf{\omega},
+\frac{\text{D} \boldsymbol{\omega}}{\text{D} t} = \left( \boldsymbol{\omega}\cdot\boldsymbol{\nabla}\right)\mathbf{u} + \nu \nabla^2 \boldsymbol{\omega},
 $$
 
-This is the *vorticity equation*, where $\mathbf{\omega}=\boldsymbol{\nabla} \times \mathbf{u}$. Vorticity represents the local rotation of fluid elements, and is (as expected) non-zero in spinning vortices.
+This is the *vorticity equation*, where $\boldsymbol{\omega}=\boldsymbol{\nabla} \times \mathbf{u}$. Vorticity represents the local rotation of fluid elements, and is (as expected) non-zero in spinning vortices.
 
-The vorticity equation describes how the vorticity of fluid parcels changes with time. From the terms on the right-hand side of the equation, we can see that this can happen in two ways. The first term on the right-hand side of the vorticty equation describes the process of vortex stretching. This is a uniquely three-dimensional phenomenon that describes the increase in vorticity of a cylinder pulled into its axis of rotation and stretched out along it. This is the mechanism by which hurricanes develop their strong wind speeds. Here, however, we restrict our attention to two-dimensional flows, for which $\left( \mathbf{\omega}\cdot\boldsymbol{\nabla}\right)\mathbf{u} = \mathbf{0}$, leaving 
+The vorticity equation describes how the vorticity of fluid parcels changes with time. From the terms on the right-hand side of the equation, we can see that this can happen in two ways. The first term on the right-hand side of the vorticty equation describes the process of vortex stretching. This is a uniquely three-dimensional phenomenon that describes the increase in vorticity of a cylinder pulled into its axis of rotation and stretched out along it. This is the mechanism by which hurricanes develop their strong wind speeds. Here, however, we restrict our attention to two-dimensional flows, for which $\left( \boldsymbol{\omega}\cdot\boldsymbol{\nabla}\right)\mathbf{u} = \mathbf{0}$, leaving 
 
 $$
-\frac{\text{D} \mathbf{\omega}}{\text{D} t} = \nu \nabla^2 \mathbf{\omega}.
+\frac{\text{D} \boldsymbol{\omega}}{\text{D} t} = \nu \nabla^2 \boldsymbol{\omega}.
 $$
