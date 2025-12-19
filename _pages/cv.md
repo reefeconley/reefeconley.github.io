@@ -29,6 +29,20 @@ Research project: <a href="/pdfs/Part II Report Reefe Conley.pdf">*The aqueous g
 Music: University of Cambridge Concert Band (President and Treasurer), Girton College Orchestra, St John's College Big Band, University of Cambridge Brass Band  
 Rowing: Men's 2nd VIII (Girton College)
 
+## Scholarships and Awards
+
+---
+
+**Sir Arthur Arnold Scholarship**  
+Awarded by Girton College, Cambridge for outstanding academic achievement in 2024–25.
+
+**Girton College Travel Award**  
+Awarded by Girton College, Cambrdige for high-quality and constructive travel for scientific research. 
+
+**Worts Travelling Scholars, Sir Bartle Frere’s Memorial, and Mary Euphrasia Mosley
+Awards**  
+Awarded by the University of Cambridge for investigations in countries outside of Great Britain, for the purpose of scientific research.
+
 ## Research experience
 
 ---
