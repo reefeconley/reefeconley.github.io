@@ -13,7 +13,7 @@ I am a Natural Sciences graduate from the University of Cambridge. I am interest
 
 Here you will find a collection of my notes on geophysical fluid dynamics and thermodynamics, along with a collection of numerical simulations illustrating various fluid dynamic instabilities and phenomena relevant to the Earth Sciences.
 
-## Education
+<!-- ## Education
 
 **University of Cambridge**  
 M.Sci. Natural Sciences (Quantitative Climate and Environmental Science)  
@@ -50,4 +50,4 @@ Activities: Aqueous sampling, titration, mass spectrometry, geochemical mapping,
 
 **Corinth, Greece**  
 Duration: 1 week  
-Activities: Geological mapping
+Activities: Geological mapping -->
