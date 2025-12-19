@@ -7,9 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! 
+# About
 
-I read Natural Sciences (B.A. (Hons) and M.Sci.) at the University of Cambridge, graduating with a First Class in 2025. During my studies, I became interested in applying fluid dynamics, mineral physics and numerical modelling to predict the futures of global ice sheets and their implications for sea level rise. I recently completed a visiting research internship in the Department of Mathematics at the University of Manchester, where I undertook research with Dr Ashleigh Hutchinson into the behaviour of Saffman-Taylor instabilities in shear-thinning fluids.
+I read Natural Sciences (B.A. (Hons) and M.Sci.) at the University of Cambridge, graduating with a First Class in 2025. I am interested in applying fluid dynamics and numerical modelling to predict future climate. In particular, I am interested in understanding the dynamics of global ice sheets and their effect on future sea level rise.
+
+Here you will find a collection of my notes on geophysical fluid dynamics and thermodynamics, along with a collection of numerical simulations illustrating various fluid dynamic instabilities and phenomena observed in the Earth Sciences.
+
+# CV
+
+## Education
+
+I recently completed a visiting research internship in the Department of Mathematics at the University of Manchester, where I undertook research with Dr Ashleigh Hutchinson into the behaviour of Saffman-Taylor instabilities in shear-thinning fluids.
 
 <!-- A report of some of the research I undertook is available <a href="/pdfs/Saffman_Taylor_report_rjc.pdf">here</a>. -->
 
