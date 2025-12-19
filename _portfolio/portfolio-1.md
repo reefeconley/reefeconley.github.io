@@ -12,21 +12,35 @@ $$
 \text{Re} = \frac{UL}{\nu},
 $$
 
-where $U$ and $L$ are characteristic velocity and length scales of the flow, and $\nu$ is the kinematic viscosity (diffusivity of momentum) of the fluid. By scaling the Navier-Stokes equations for a fluid of constant density $\rho$ using $U$, $L$ and a characteristic timescale $T=L/U$ and pressure scale $\mu U/L$, where $\mu$ is the dynamic viscosity of the fluid (satisfying $\mu = \rho \nu$), we obtain
+where $U$ and $L$ are characteristic velocity and length scales of the flow, and $\nu$ is the kinematic viscosity (diffusivity of momentum) of the fluid. The Reynolds number represents the ratio of inertial to viscous forces. When the Reynolds number is large, the inertial forces dominate over viscous forces and the below becomes turbulent.
+
+Let's see where the Reynolds number comes from. The dynamics of incompressible fluids are governed by the Navier-Stokes equations,
 
 $$
 \begin{aligned}
-\boldsymbol{\nabla}'\cdot\mathbf{u}' &= 0,\\
-\text{Re}\left[\frac{\partial \mathbf{u}'}{\partial t'} + (\mathbf{u}'\cdot\boldsymbol{\nabla}')\mathbf{u}'\right] &= -\boldsymbol{\nabla}'p' + \nabla'^2 \mathbf{u}',
+\boldsymbol{\nabla}\cdot\mathbf{u} &= 0,\\
+\frac{\text{D} \mathbf{u}}{\text{D} t} = \frac{\partial \mathbf{u}}{\partial t} + (\mathbf{u}\cdot\boldsymbol{\nabla})\mathbf{u} &= -\frac{1}{\rho}\boldsymbol{\nabla}p + \nu\nabla^2 \mathbf{u},
 \end{aligned}
 $$
 
-where primes denote dimensionless quantities. The Reynolds number represents the ratio of inertial to viscous forces. When the Reynolds number is large, theinertial forces dominate over viscous forces and the below becomes turbulent. The chaotic behaviour of turbulent flow arises from the nonlinearity of the inertial $(\mathbf{u}'\cdot\boldsymbol{\nabla}')\mathbf{u}'$ term. In the opposite regime of small Reynolds numbers, viscous forces dominate over inertial ones, producing laminar flow.
+where we assume no body forces (such as gravity) are present. By taking characteristic velocity and length scales $U$ and $L$, we see that the Reynolds number is given by
+
+$$
+\frac{(\mathbf{u}\cdot\boldsymbol{\nabla})\mathbf{u}}{\nu\nabla^2 \mathbf{u}} \sim \frac{U^2/L}{\nu U/L^2}\sim \frac{UL}{\nu},
+$$
+
+as expected. The chaotic behaviour of turbulent flow arises from the dominance of the nonlinear inertial $(\mathbf{u}\cdot\boldsymbol{\nabla})\mathbf{u}$ term over viscous dissipation.
 
 We can further manipulate the momentum equation to gain more insight into the development of swirling vortices in turbulent flow. Taking the curl $\left(\boldsymbol{\nabla} \times \right)$ of both sides of the momentum equation gives
 
 $$
-\text{Re}\left[\frac{\partial \mathbf{\omega}}{\partial t} + (\mathbf{u}\cdot\boldsymbol{\nabla})\mathbf{\omega}\right] = \left( \mathbf{\omega}\cdot\boldsymbol{\nabla}\right)\mathbf{u} + \nabla^2 \mathbf{\omega},
+\frac{\text{D} \mathbf{\omega}}{\text{D} t} = \left( \mathbf{\omega}\cdot\boldsymbol{\nabla}\right)\mathbf{u} + \nu \nabla^2 \mathbf{\omega},
 $$
 
-where we have dropped primes for notational simplicity. This is the *vorticity equation*, where $\mathbf{\omega}=\boldsymbol{\nabla} \times \mathbf{u}$. This 
+This is the *vorticity equation*, where $\mathbf{\omega}=\boldsymbol{\nabla} \times \mathbf{u}$. Vorticity represents the local rotation of fluid elements, and is (as expected) non-zero in spinning vortices.
+
+The vorticity equation describes how the vorticity of fluid parcels changes with time. From the terms on the right-hand side of the equation, we can see that this can happen in two ways. The first term on the right-hand side of the vorticty equation describes the process of vortex stretching. This is a uniquely three-dimensional phenomenon that describes the increase in vorticity of a cylinder pulled into its axis of rotation and stretched out along it. This is the mechanism by which hurricanes develop their strong wind speeds. Here we restrict our attention to two-dimensional flows, for which $\left( \mathbf{\omega}\cdot\boldsymbol{\nabla}\right)\mathbf{u} = \mathbf{0}$, leaving 
+
+$$
+\frac{\text{D} \mathbf{\omega}}{\text{D} t} = \nu \nabla^2 \mathbf{\omega}.
+$$
