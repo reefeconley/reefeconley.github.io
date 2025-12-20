@@ -14,7 +14,7 @@ $$
 
 where $U$ and $L$ are characteristic velocity and length scales of the flow, and $\nu$ is the kinematic viscosity (diffusivity of momentum) of the fluid. The Reynolds number represents the ratio of inertial to viscous forces. When the Reynolds number is large, the inertial forces dominate over viscous forces and the below becomes turbulent.
 
-Let's see where the Reynolds number comes from. The dynamics of incompressible fluids are governed by the Navier-Stokes equations,
+Let's see where the Reynolds number comes from. The dynamics of fluids such as water and ice are governed by the incompressible Navier-Stokes equations,
 
 $$
 \begin{aligned}
@@ -23,7 +23,7 @@ $$
 \end{aligned}
 $$
 
-where we assume no body forces (such as gravity) are present. By taking characteristic velocity and length scales $U$ and $L$, we see that the Reynolds number is given by
+where we have neglected the effects of body forces (namely gravity). By taking characteristic velocity and length scales $U$ and $L$, we see that the Reynolds number is given by
 
 $$
 \frac{(\mathbf{u}\cdot\boldsymbol{\nabla})\mathbf{u}}{\nu\nabla^2 \mathbf{u}} \sim \frac{U^2/L}{\nu U/L^2}\sim \frac{UL}{\nu},
@@ -44,3 +44,15 @@ The vorticity equation describes how the vorticity of fluid parcels changes with
 $$
 \frac{\text{D} \boldsymbol{\omega}}{\text{D} t} = \nu \nabla^2 \boldsymbol{\omega}.
 $$
+
+From this, we can see that the vorticity of inviscid ($\nu=0$) fluids is conserved, yet it diffuses for any real fluid of non-zero viscosity. Scaling the vorticity equation with ${\omega \sim U/L}$ and ${t \sim L/U}$ gives
+
+$$
+\frac{\text{D} \boldsymbol{\omega'}}{\text{D} t'} = \frac{1}{\text{Re}} \nabla'^2 \boldsymbol{\omega'},
+$$
+
+where primes denote dimensionless quantities. We see that the diffusion of vorticity decreases for large Reynolds number flows.
+
+The video below shows the nearly-free evolution of vorticity in a doubly-periodic two-dimensional domain. The flow has a large Reynolds number $(\text{Re}=5\times10^4)$. The vorticity field is initially perturbed everywhere around wavenumber six, along with a small-amplitude perturbation to other wavenumbers. The vorticity is then allowed to evolve according to the above two-dimensional vorticity equation.
+
+<iframe width="480" height="360" src='/images/vorticity/vort_vid.mp4' frameborder="0"> </iframe>
