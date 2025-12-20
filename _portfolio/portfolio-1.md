@@ -61,10 +61,14 @@ The video below shows the nearly-free evolution of vorticity in a doubly-periodi
   </video>
 </div>
 
-Though the fluid evolves chaotically and unpredictably, the phenomenology of the flow is clear — the small vortices that form initially soon coalesce into larger ones, until the flow field is dominated by a handful of large vortices at late times. This is characteristic of two-dimensional turbulence and reflects a general cascade of energy from smaller to larger scales. This is fundamentally different to three-dimensional turbulence, in which the energy flows from larger to smaller scales (via vortex stretching). This energy cascade to larger length scales is known as the *inverse energy cascade* and has a significant consequence for the dynamics of the the atmosphere and ocean, which act in some ways as two-dimensional fluids. Kolmogorov's spectral theory of turbulence predicts the energy spectrum of such a two-dimensional flow to be
+Though the fluid evolves chaotically and unpredictably, the phenomenology of the flow is clear — the small vortices that form initially soon coalesce into larger ones, until the flow field is dominated by a handful of large vortices at late times. This is characteristic of two-dimensional turbulence and reflects a general cascade of energy from smaller to larger scales. This is fundamentally different to three-dimensional turbulence, in which the energy flows from larger to smaller scales (via vortex stretching). This energy cascade to larger length scales is known as the *inverse energy cascade* and has a significant consequence for the dynamics of the the atmosphere and ocean, which act in some ways as two-dimensional fluids. Kolmogorov's spectral theory of turbulence predicts the energy spectrum $\mathcal{E}$ of such a two-dimensional flow to be
 
 $$
-\mathcal{E(k) \sim k^{-5/3}}.
+\mathcal{E(k) \sim k^{-5/3}},
 $$
+
+in which energy is transferred to smaller wavelengths approximately along a $k^{-5/3}$ slope when plotted logarithmically.
 
 The magnitude of the voriticty field also decreases with time (see the changing scale bar), reflecting the dissipation of vorticity owing to the $\nu \nabla^2\boldsymbol{\omega}$ term (though $1/\text{Re}$ is small, it is not exactly zero).
+
+
