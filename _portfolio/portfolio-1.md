@@ -67,7 +67,7 @@ $$
 \mathcal{E(k) \sim k^{-5/3}},
 $$
 
-in which energy is transferred to smaller wavelengths approximately along a $k^{-5/3}$ slope when plotted logarithmically.
+in which energy is transferred to smaller wavenumbers (larger wavelengths) approximately along a $k^{-5/3}$ slope when plotted logarithmically.
 
 The magnitude of the voriticty field also decreases with time (see the changing scale bar), reflecting the dissipation of vorticity owing to the $\nu \nabla^2\boldsymbol{\omega}$ term (though $1/\text{Re}$ is small, it is not exactly zero).
 
