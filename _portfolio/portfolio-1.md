@@ -53,13 +53,18 @@ $$
 
 where primes denote dimensionless quantities. We see that the diffusion of vorticity decreases for large Reynolds number flows.
 
-The video below shows the nearly-free evolution of vorticity in a doubly-periodic two-dimensional domain. The flow has a large Reynolds number $(\text{Re}=5\times10^4)$. The vorticity field is initially perturbed everywhere around wavenumber six, along with a small-amplitude perturbation to other wavenumbers. The vorticity is then allowed to evolve according to the above two-dimensional vorticity equation.
-
-<!-- <iframe width="480" height="360" src='/images/vorticity/vort_vid.mp4' frameborder="0"> </iframe> -->
-
+The video below shows the nearly-free evolution of vorticity in a doubly-periodic two-dimensional domain. The flow has a large Reynolds number $(\text{Re}=5\times10^4)$. The vorticity field is initially perturbed everywhere across many wavenumbers, and the vorticity is then allowed to freely evolve according to the above two-dimensional vorticity equation.
 
 <div style="display: flex; justify-content: center;">
   <video controls style="width: 50%; height: auto;">
     <source src="/images/vorticity/vort_vid.mp4" type="video/mp4">
   </video>
 </div>
+
+Though the fluid evolves chaotically and unpredictably, the phenomenology of the flow is clear — the small vortices that form initially soon coalesce into larger ones, until the flow field is dominated by a handful of large vortices at late times. This is characteristic of two-dimensional turbulence and reflects a general cascade of energy from smaller to larger scales. This is fundamentally different to three-dimensional turbulence, in which the energy flows from larger to smaller scales (via vortex stretching). This energy cascade to larger length scales is known as the *inverse energy cascade* and has a significant consequence for the dynamics of the the atmosphere and ocean, which act in some ways as two-dimensional fluids. Kolmogorov's spectral theory of turbulence predicts the energy spectrum of such a two-dimensional flow to be
+
+$$
+\mathcal{E(k) \sim k^{-5/3}}.
+$$
+
+The magnitude of the voriticty field also decreases with time (see the changing scale bar), reflecting the dissipation of vorticity owing to the $\nu \nabla^2\boldsymbol{\omega}$ term (though $1/\text{Re}$ is small, it is not exactly zero).
