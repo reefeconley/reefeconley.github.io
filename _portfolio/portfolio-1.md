@@ -55,4 +55,11 @@ where primes denote dimensionless quantities. We see that the diffusion of vorti
 
 The video below shows the nearly-free evolution of vorticity in a doubly-periodic two-dimensional domain. The flow has a large Reynolds number $(\text{Re}=5\times10^4)$. The vorticity field is initially perturbed everywhere around wavenumber six, along with a small-amplitude perturbation to other wavenumbers. The vorticity is then allowed to evolve according to the above two-dimensional vorticity equation.
 
-<iframe width="480" height="360" src='/images/vorticity/vort_vid.mp4' frameborder="0"> </iframe>
+<!-- <iframe width="480" height="360" src='/images/vorticity/vort_vid.mp4' frameborder="0"> </iframe> -->
+
+
+<div style="display: flex; justify-content: center;">
+  <video controls style="width: 50%; height: auto;">
+    <source src="/images/vorticity/vort_vid.mp4" type="video/mp4">
+  </video>
+</div>
