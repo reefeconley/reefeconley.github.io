@@ -21,12 +21,12 @@ where $U$ and $L$ are characteristic velocity and length scales of the flow, and
    width="60%"
 %} -->
 
-<div style="display: flex; justify-content: center;">
+<!-- <div style="display: flex; justify-content: center;">
   <figure>
     <img src="/images/mersey.jpeg" alt="Mersey"/>
     <figcaption>The River Mersey flowing over a knickpoint, showing a transition from laminar to turbulent flow.</figcaption>
   </figure>
-</div>
+</div> -->
 
 <!-- <div style="display: flex; justify-content: center;">
   <video controls style="width: 50%; height: auto;">
