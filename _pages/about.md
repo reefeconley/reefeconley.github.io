@@ -5,12 +5,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
-<!-- header:
+layout: single
+header:
   image: /images/mersey.jpeg
---- -->
-
-![](/images/mersey.jpeg)
+---
 
 Welcome to my website!
 
