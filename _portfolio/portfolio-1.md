@@ -17,9 +17,14 @@ where $U$ and $L$ are characteristic velocity and length scales of the flow, and
 {% include figure
    image_path="/images/mersey.jpeg"
    alt="Mersey"
-   caption="The River Mersey flowing over a knickpoint, showing a transition from laminar to turbulent flow."
+   figcaption="The River Mersey flowing over a knickpoint, showing a transition from laminar to turbulent flow."
    width="60%"
 %}
+
+<!-- <figure>
+  <img src="/images/mersey.jepg" alt="The River Mersey Flowing ove"/>
+  <figcaption>This is my caption text.</figcaption>
+</figure> -->
 
 
 Let's see where the Reynolds number comes from. The dynamics of fluids such as water and ice are governed by the incompressible Navier-Stokes equations,
