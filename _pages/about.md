@@ -10,7 +10,7 @@ redirect_from:
   image: /images/mersey.jpeg
 --- -->
 
-![](../images/mersey.jpeg)
+![](/images/mersey.jpeg)
 
 Welcome to my website!
 
