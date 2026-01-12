@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 layout: single
-header:
-  image: /images/mersey.jpeg
+# header:
+#   image: /images/mersey.jpeg
 ---
 
 Welcome to my website!
