@@ -5,6 +5,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
+header:
+  image: /images/mersey.jpeg
 ---
 
 Welcome to my website!
@@ -12,6 +15,8 @@ Welcome to my website!
 I am a Natural Sciences graduate from the University of Cambridge. I am interested in applying fluid dynamics and numerical modelling to predict future climate. In particular, I am interested in understanding the dynamics of global ice sheets and their effect on future sea level rise.
 
 On the gallery page you will find a collection of my notes on geophysical fluid dynamics and thermodynamics, along with a collection of numerical simulations illustrating various fluid dynamic instabilities and other phenomena relevant to the Earth Sciences.
+
+On the sidebar you will find my LinkedIn profile, which details my education and employment history, along with some of my extra-curricular activities.
 
 <!-- ## Education
 
