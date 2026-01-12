@@ -14,7 +14,7 @@ $$
 
 where $U$ and $L$ are characteristic velocity and length scales of the flow, and $\nu$ is the kinematic viscosity (diffusivity of momentum) of the fluid. The Reynolds number represents the ratio of inertial to viscous forces. When the Reynolds number is large, the inertial forces dominate over viscous forces and the below becomes turbulent.
 
-![Mersey](/images/mersey.jpeg)
+![Mersey](/images/mersey.jpeg){: .align-center width="60%"}
 *The River Mersey.*
 
 <!-- {% include figure
