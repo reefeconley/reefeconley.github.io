@@ -15,7 +15,7 @@ $$
 where $U$ and $L$ are characteristic velocity and length scales of the flow, and $\nu$ is the kinematic viscosity (diffusivity of momentum) of the fluid. The Reynolds number represents the ratio of inertial to viscous forces. When the Reynolds number is large, the inertial forces dominate over viscous forces and the below becomes turbulent.
 
 ![Mersey](/images/mersey.jpeg){: .align-center width="60%"}
-<p style="text-align: center;">*The River Mersey flowing over a knickpoint, showing a transition to turbulence as the velocity and depth of the flow increase.*</p>
+<p style="text-align: center;"><em>The River Mersey flowing over a knickpoint, showing a transition to turbulence as the velocity and depth of the flow increase.</em></p>
 
 Let's see where the Reynolds number comes from. The dynamics of fluids such as water and ice are governed by the incompressible Navier-Stokes equations,
 
