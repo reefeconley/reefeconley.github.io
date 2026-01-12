@@ -22,7 +22,7 @@ where $U$ and $L$ are characteristic velocity and length scales of the flow, and
 %}
 
 <figure>
-  <img src="/images/mersey.jpeg" alt="The River Mersey Flowing over a knickpoint, showing a transition from laminar to turbulent flow."/>
+  <img src="/images/mersey.jpeg" alt="Mersey"/>
   <figcaption>The River Mersey flowing over a knickpoint, showing a transition from laminar to turbulent flow.</figcaption>
 </figure>
 
